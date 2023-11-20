@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lotto-ddsc",
+  "private_key_id": "aaa12b87f53226a0e5727586757ff0a8add2fb54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC+sdBxi/adX296\nAVgMFa65UzTu3uhoi8OtVWeIZCx6GTlcs9l4TkpxUYYtKOxx5foMWMxWpX2qSKfo\n2CPaPOhzHZddvXuq6qve7xBuprDHFW6KHNmrNAgSoNxrPU/CTwLgXYUkkfV8KyY1\nDeCVSrKLYsvny0RPOI17nuyyDDqreTnQrtiKdMqyTRkbtfYLBm1LPv+dxvgpT04u\npGTciPa4k7+6bpJkz2mo/gMPAX4GMaHOo0Jb4OafDn4eKAFlL5zoorVMZXWesO/0\n5qUNd06cYkfwpJev1NUoQaB1EKNyhWZ4CMuR6h6PX7EM9Qw3AIik4VuiqGuJrAYR\nXUtzTkShAgMBAAECggEAAnZ3URSJY8RcmHsOhKgaXRIGo7Q6Rn7uQr2JynwXYIOj\nqNhVjWN7PBX5nc54G0Q+I78D1srasB7qpnMDtb5UaKQv6m1lw9y1rTKOMrejLH4m\nMtE1WHMTog7YVlmNTaXX6bjilex9UDC2sTfwKaLCm28CX+wKLPjbK1woWvZOsTj9\ndvqOKTM/5fnbRK08AkZKX2s31OEtEIo11af3YfpDumyxwdTDhc2ZwkgINiucXB41\nTjWsfeQA0wFVdQfNFQEbexut8Hzss0nnHq3BMOjHyMKF5GRfeceNS3SItC1tUJYd\n1APYdxT9lf0al37WvxH/37V2M738GKD43wYKU3pvtwKBgQDtNFCdTHiyS/X2PxdO\noWdc8Y/Q9JDPD6hSTa44/u4vDp4CCgSujx9l+d8je4JTuhl2teU9vk6ViBjWOAWL\nvysQV5YvyO4nwBm3vpa9xejMJivnbhIyRGfFoOhj3VAcUQ2rPdSO+IW1bLOsB6Qo\nv2zI6vm8j0lbhoFfCJoa0JmeTwKBgQDNzgy56bnTkmwzdBoJI3Xmv7zRcJChVJ3H\nrWbX4eDn0Z9iOG5R5MX5eDyVeqXWaaGK5qQHiWAX9J2zjRlm7+mM6+gpUB9QoMGt\nBYlCXyP3xWGVP38YbkHnYhjH9qsoAKeUZ8GGm0VS8cRcN5zeHhMz8Vr4W5YXm1We\nalVB0eCiDwKBgQDpP5Q12UimKsPGTOviShyV7IN6+cKbmc3ugKxdJ3GXnEwLvUY1\nUE+Tu02MWpshMdJwRRUSzdwAdj/WBmiNroHuI/JvMqndNK0VXbhlDAOLG834WOhT\nvag9Uaiy6qEn9xv102r826y/ZhCXjTwDRZj3SPgiTtPXyD/W72J6E727SQKBgQCo\nCJVhchDUStfnRuM/FOHdzi0Xf+XGo3TTpKO0netou0F8C4Efgj+WSXKFxYcDwmkw\nJNJGiQaZaJMeF5Vm83loIvECUjXPOgIIB94i/9U5JsJe/mICC3vptLFxCtiCJ86r\nn+9lvP7kExv1Az8kJ8AcB/Lzlqu8iIpmdoE35WmYRwKBgQDBC878CMJrPJQ3E8m5\n4rUWZzSg13WdLhtTTCPXHtUulC2G7Iou6IZGEe6PpSbkOC2Zkxa7YuwryAgL5b92\nQiYoox/cOc+7BPmpz/5s8SxY79o5A8cHqshb9ouYKQwn3G1i4NaPEprjgUJ43BCa\n9zRq2LSUVjdS9fNN0mgJmcJGJQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lotto-ddc@lotto-ddsc.iam.gserviceaccount.com",
+  "client_id": "116400533617118255641",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lotto-ddc%40lotto-ddsc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
